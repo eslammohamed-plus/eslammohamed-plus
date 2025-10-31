@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> أهلاً! يسعدني تواجدك هنا.</h1>
 
-<p>مرحباً بك في صفحتي على GitHub! </br> أنا <b>إسلام محمد</b>، مطوّر ويب من <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>مصر</b> 🇪🇬، متخصص في تطوير واجهات المستخدم (Front-End) وبناء مواقع تفاعلية باستخدام أحدث التقنيات.</p>
+<p>مرحباً بك في صفحتي على GitHub! </br> أنا <b>إسلام محمد</b>، مطوّر ويب من <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>مصر</b>، متخصص في تطوير واجهات المستخدم (Front-End) وبناء مواقع تفاعلية باستخدام أحدث التقنيات.</p>
 
 <h3>💻 التقنيات التي أستخدمها</h3>
 <p>
@@ -47,7 +47,7 @@
 أحب التجربة والتعلم من المشاريع الواقعية، وأطمح للمشاركة في مشاريع مفتوحة المصدر تساهم في تطوير الويب العربي.
 </p>
 
-<h3>📫 تواصل معي</h3>
+<h3>📫01128795932 تواصل معي</h3>
 <p>
   <a href="https://github.com/eslammohamed" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/eslammohamed" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
